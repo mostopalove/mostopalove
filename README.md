@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @mostopalove
+- 👋 Hi, I’m @mostopalove and I'm frontend developer!
 - 👀 I’m interested in JavaScript
+- 🧑‍💻 I'm currently working with Vue and Angular
 - 🌱 I’m currently learning React and Node.js
 - 📫 How to reach me: mostopalov@gmail.com
 
