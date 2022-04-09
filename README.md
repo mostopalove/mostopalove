@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mostopalove and I'm frontend developer!
-- 👀 I’m interested in JavaScript
-- 🧑‍💻 I'm currently working with Vue and Angular
-- 🌱 I’m currently learning React and Node.js
+- 👋 Hi, I’m @mostopalove and I'm Full Stack developer!
+- 👀 I’m interested in JavaScript and Python
+- 🧑‍💻 I'm currently working with Vue and Django frameworks
 - 📫 How to reach me: mostopalov@gmail.com
 
 <!---
